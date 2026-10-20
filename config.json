@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "libraryIdPattern": "^[^:\\n]{2,40}:\\s*(\\d{8,})$",
+  "maxCardDepth": 18,
+  "dateLineMaxLength": 80,
+  "sponsoredLabels": ["Sponsored", "Sponsorizzato", "Publicidad", "Patrocinado", "Gesponsert", "Sponsorisé", "Gesponsord"],
+  "versionsPatterns": ["(\\d+) ads use this creative", "(\\d+) inserzioni usano"],
+  "multipleVersionsLabels": ["This ad has multiple versions", "Questa inserzione ha più versioni"],
+  "months": {
+    "january": 1, "jan": 1, "gen": 1, "ene": 1, "janv": 1, "jän": 1,
+    "february": 2, "feb": 2, "fev": 2, "fév": 2, "févr": 2,
+    "march": 3, "mar": 3, "mär": 3, "mars": 3,
+    "april": 4, "apr": 4, "abr": 4, "avr": 4,
+    "may": 5, "mag": 5, "mai": 5, "mayo": 5,
+    "june": 6, "jun": 6, "giu": 6, "juin": 6,
+    "july": 7, "jul": 7, "lug": 7, "juil": 7,
+    "august": 8, "aug": 8, "ago": 8, "août": 8, "aoû": 8,
+    "september": 9, "sep": 9, "sept": 9, "set": 9,
+    "october": 10, "oct": 10, "ott": 10, "okt": 10, "out": 10,
+    "november": 11, "nov": 11,
+    "december": 12, "dec": 12, "dic": 12, "dez": 12, "déc": 12
+  }
+}
